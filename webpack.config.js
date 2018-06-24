@@ -16,5 +16,9 @@ module.exports = {
       }
     ]
   },
-  plugins: [new MonacoWebpackPlugin()]
+  plugins: [
+    new MonacoWebpackPlugin({
+      output: "g.alicdn.com/monaco-editor"
+    })
+  ]
 };

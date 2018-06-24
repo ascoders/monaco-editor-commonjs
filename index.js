@@ -1,2 +1,2 @@
-const monaco = require("monaco-editor");
-module.exports = monaco;
+import * as monaco from "monaco-editor";
+export default monaco;

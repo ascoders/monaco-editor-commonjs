@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-commonjs",
-  "version": "1.0.0",
+  "version": "1.0.q",
   "description": "",
   "main": "dist/monaco-editor.min.js",
   "types": "editor.api.d.ts",
